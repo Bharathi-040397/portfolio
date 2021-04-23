@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Bharathi",
+    "occupation": "ReactJS && MERN Full Stack Developer",
+    "description": "But  some more special in Frontend and also do freelance",
+    "email": "bharathivairam040397@gmail.com",
+    "address": {
+      "state": "TamilNadu",
+      "country": "India"
+    },
+    "resume":"https://drive.google.com/file/d/10FqZTtRecoa5Zn-SlmE4VyA4LSGyY9lk/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bharu.vairam.1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bharathi-vairamani-410a301b6",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/Bharathi-040397",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Kshatriya Girls' Higher Secondary School",
+        "degree": "VHNSN College",
+        "graduated": "June 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+  
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name":"firebase",
+        "level":"70%"
+      },
+      
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid Tracker with React",
+        "category": "Covid tracker built with React (Leaflet, chart.js, React) and firebase",
+        "image": "covid.png",
+        "url": "https://covid-19-tracker-app-d0e17.web.app/"
+      },
+      {
+        "title": "MERN Stack Instagram clone",
+        "category": "Instagram Clone built with MERN (MongoDB, Express, React, Node)",
+        "image": "insta.png",
+        "url": "https://instaclone06.herokuapp.com/"
+      },
+      
+      {
+        "title": "Amazon clone",
+        "category": "Amazon clone with React ,firebase and payment using STRIPE",
+        "image": "amazon.png",
+        "url": "https://fir-d53be.web.app/"
+      },
+      {
+        "title": "React Portfolio  ",
+        "category": "React portfolio built with Ceevee design Template by Styleshout",
+        "image": "portfolio.png",
+        "url": "http://bharathi-portfolio.netlify.app/"
+       },
+       {
+        "title": "website-dashboard UI",
+        "category": "website dashboard UI built with HTML,Bootstrap",
+        "image": "docker.png",
+        "url": "https://bootstrap-websites.herokuapp.com/"
+      },
+      {
+        "title": "Furniture_Home",
+        "category": "Furniture showroom Homepage UI using Bootstrap,and filter using javascript",
+        "image": "furniture.png",
+        "url": "https://menujs.herokuapp.com/"
+      },
+      
+      {
+        "title": "wix-clone UI",
+        "category": "wix-clone UI built with HTML,Bootstrap",
+        "image": "wix.png",
+        "url": "https://wix-clone.herokuapp.com/"
+      },
+     {
+        "title": "article",
+        "category": "article using Bootstrap and javascript",
+        "image": "article.png",
+        "url": "https://articlejs.herokuapp.com/#"
+      },
+      {
+        "title": "lorem-generator",
+        "category": "lorem-generator built with javascript",
+        "image": "lorem.png",
+        "url": "https://lorem-generator-js.herokuapp.com/"
+      },
+      {
+        "title": "review",
+        "category": "review built with Bootstrap,javascript",
+        "image": "review.png",
+        "url": "https://reviewjs.herokuapp.com/"
+      },
+      
+      {
+        "title": "grocery-list",
+        "category": "grocery list built using javascript",
+        "image": "grocery.png",
+        "url":"https://grocery-list-js.herokuapp.com/"
+      }
+    ]
+  }
+  
+}
